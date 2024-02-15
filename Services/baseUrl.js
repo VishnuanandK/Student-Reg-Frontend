@@ -1,2 +1,2 @@
-const SERVER_URL ="http://localhost:4000"
+const SERVER_URL ="https://register-server-slwb.onrender.com/"
 export default SERVER_URL
